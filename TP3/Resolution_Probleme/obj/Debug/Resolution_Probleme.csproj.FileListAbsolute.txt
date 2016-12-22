@@ -1,0 +1,7 @@
+C:\Users\Sana\Documents\Visual Studio 2015\Projects\SanaTests\TP3\Resolution_Probleme\bin\Debug\Resolution_Probleme.dll
+C:\Users\Sana\Documents\Visual Studio 2015\Projects\SanaTests\TP3\Resolution_Probleme\bin\Debug\Resolution_Probleme.pdb
+C:\Users\Sana\Documents\Visual Studio 2015\Projects\SanaTests\TP3\Resolution_Probleme\obj\Debug\Resolution_Probleme.dll
+C:\Users\Sana\Documents\Visual Studio 2015\Projects\SanaTests\TP3\Resolution_Probleme\obj\Debug\Resolution_Probleme.pdb
+C:\Users\Sana\Documents\Visual Studio 2015\Projects\SanaTests\TP3\Resolution_Probleme\bin\Debug\Unification.dll
+C:\Users\Sana\Documents\Visual Studio 2015\Projects\SanaTests\TP3\Resolution_Probleme\bin\Debug\Unification.pdb
+C:\Users\Sana\Documents\Visual Studio 2015\Projects\SanaTests\TP3\Resolution_Probleme\bin\Debug\NCalc.dll
